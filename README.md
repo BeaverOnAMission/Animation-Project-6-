@@ -1,4 +1,4 @@
-App with different animation practices, like:   
+<b>App with different animation practices, like: </b>  
 
 TransitionsContentView will display a smooth transition effect when the red rectangle appears or disappears, utilizing a scaling animation and fading opacity.  
 
